@@ -7,10 +7,12 @@ description: >-
   best of us (or rather, the best of your parents) and we give more value to
   rankings then they deserve. Why don’t we value what feeds our soul? Why don’t
   we value what makes us feel safe?
-dateModified: '2016-07-20T12:43:36.032Z'
-datePublished: '2016-07-20T12:43:36.438Z'
-title: 'Less is more! '
+dateModified: '2016-07-20T12:55:31.160Z'
+datePublished: '2016-07-20T12:56:02.655Z'
+title: Less is more!
 author: []
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f90fa9f2-dda7-4844-8ab8-1a7c4cc5f43e.jpg
 starred: false
 sourcePath: _posts/2016-07-20-less-is-more.md
 inFeed: true
@@ -19,9 +21,11 @@ inNav: false
 _type: MediaObject
 
 ---
-# Less is more! 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f90fa9f2-dda7-4844-8ab8-1a7c4cc5f43e.jpg)
 
-# Creating a meaningful college list
+# Less is more!
+
+## _Creating a meaningful college list_
 
 College is so much more than the place where you earn a diploma. It is an experience, it is a mindset, it is a world where you can take risks and be rewarded with a new and improved adult version of you! WHERE you go does matter, but not in the way that we often think about it. Rankings can get the best of us (or rather, the best of your parents) and we give more value to rankings then they deserve. Why don't we value what feeds our soul? Why don't we value what makes us feel safe?
 
